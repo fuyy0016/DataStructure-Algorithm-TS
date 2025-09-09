@@ -1,0 +1,30 @@
+{
+  "name": "datastructure-algorithm-ts",
+  "version": "1.0.0",
+  "description": "LeetCode练习代码仓库 - TypeScript实现",
+  "main": "index.js",
+  "scripts": {
+    "test": "vitest",
+    "test:watch": "vitest --watch",
+    "test:ui": "vitest --ui",
+    "test:coverage": "vitest --coverage",
+    "build": "tsc",
+    "dev": "tsc --watch"
+  },
+  "keywords": [
+    "leetcode",
+    "algorithm",
+    "data-structure",
+    "typescript",
+    "vitest"
+  ],
+  "author": "fuyy0016",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/node": "^24.3.1 ",
+    "@vitest/coverage-v8": "^3.2.4",
+    "@vitest/ui": "^3.2.4 ",
+    "typescript": "^5.9.2",
+    "vitest": "^3.2.4"
+  }
+}
