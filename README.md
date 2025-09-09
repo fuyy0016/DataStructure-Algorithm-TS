@@ -111,6 +111,7 @@ DataStructure-Algorithm-TS/
 - [合并两个有序链表](./src/linked-list/merge-two-sorted-lists/README.md)
 - [环形链表](./src/linked-list/linked-list-cycle/README.md)
 - [删除链表的倒数第 N 个结点](./src/linked-list/remove-nth-node-from-end/README.md)
+- [相交链表](./src/linked-list/intersection-of-two-linked-lists/README.md)
 
 ### 📚 栈和队列 (StackQueue)
 - 栈、队列、单调栈、优先队列
