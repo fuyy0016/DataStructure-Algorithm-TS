@@ -7,7 +7,7 @@
  * 你可以按任意顺序返回答案。
  */
 
-import { AlgorithmSolution } from '../utils';
+import { AlgorithmSolution } from '../../utils';
 
 /**
  * 解法一：暴力法

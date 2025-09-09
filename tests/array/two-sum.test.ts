@@ -4,7 +4,7 @@
  */
 
 import { describe, it, expect } from 'vitest';
-import { twoSumBruteForce, twoSumHashMap, twoSum } from '../../src/array/two-sum';
+import { twoSumBruteForce, twoSumHashMap, twoSum } from '../../src/array/two-sum/two-sum';
 
 describe('两数之和 (Two Sum)', () => {
   describe('暴力法测试', () => {
