@@ -17,7 +17,7 @@
 
 ```bash
 # 克隆仓库
-git clone <your-repo-url>
+git clone https://github.com/fuyy0016/DataStructure-Algorithm-TS.git
 cd DataStructure-Algorithm-TS
 
 # 安装依赖
