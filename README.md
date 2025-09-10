@@ -100,6 +100,7 @@ DataStructure-Algorithm-TS/
 - [最大子数组和](./src/array/maximum-subarray/README.md)
 - [合并两个有序数组](./src/array/merge-sorted-array/README.md)
 - [删除有序数组中的重复项](./src/array/remove-duplicates-from-sorted-array/README.md)
+- [最长连续递增序列](./src/array/longest-continuous-increasing-subsequence/README.md)
 
 ### 🔤 字符串 (String)
 - 回文字符串、子字符串、模式匹配、滑动窗口
@@ -119,6 +120,7 @@ DataStructure-Algorithm-TS/
 
 ### 🌳 树 (Tree)
 - 遍历、二叉搜索树、深度优先搜索、广度优先搜索
+- [计算二叉树的深度](./src/tree/calculate-the-depth-of-a-binary-tree/README.md)
 - 示例：二叉树中序遍历、二叉树最大深度、验证二叉搜索树
 
 ### 🕸️ 图 (Graph)

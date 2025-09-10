@@ -17,7 +17,8 @@ export const TREE_PROBLEMS = [
   'binary-tree-inorder-traversal',
   'maximum-depth-of-binary-tree',
   'validate-binary-search-tree',
-  'lowest-common-ancestor'
+  'lowest-common-ancestor',
+  'calculate-the-depth-of-a-binary-tree'
 ] as const;
 
 export type TreeProblem = typeof TREE_PROBLEMS[number];
